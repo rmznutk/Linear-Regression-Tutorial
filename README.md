@@ -4,7 +4,6 @@ I'm learning Linear Regression by using sklearn libraries in Python.
 
 What I've learned ? :
 
--
 - Which libraries I need to use to build a Linear Regression model.
 - How to convert the data types to data types that we need to use in model.
 - Showing and understanding the interrelationship of the information on the dataset.
@@ -15,7 +14,6 @@ What I've learned ? :
 
 Sources:
 
--
 - https://scikit-learn.org/stable/modules/linear_model.html
 - https://chat.openai.com
 - https://www.ibm.com/topics/linear-regression#:~:text=Linear%20regression%20analysis%20is%20used,is%20called%20the%20independent%20variable.
