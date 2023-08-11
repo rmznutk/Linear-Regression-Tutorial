@@ -1,0 +1,1001 @@
+age,gender,continent,weight,height,visits
+47,female,Europe,247,65,28
+26,male,Asia,283,66,23
+26,male,South America,201,68,14
+39,male,Asia,237,73,21
+55,male,North America,199,61,27
+46,female,Europe,116,69,16
+40,male,Europe,319,73,28
+52,male,South America,168,57,21
+49,male,North America,139,70,19
+27,female,North America,174,78,9
+46,male,Asia,274,70,26
+52,female,South America,141,69,14
+57,female,South America,173,72,23
+58,female,Europe,178,59,22
+32,female,Africa,192,47,30
+34,female,South America,191,76,11
+38,female,North America,208,63,19
+57,female,Asia,172,60,22
+34,female,South America,209,74,14
+59,male,Asia,239,68,28
+44,male,Asia,232,69,20
+38,male,Asia,280,76,20
+26,male,Africa,207,62,14
+51,female,South America,210,61,23
+86,female,Europe,189,66,33
+15,male,Europe,287,63,19
+45,female,Europe,223,77,18
+40,male,South America,126,67,10
+33,male,Europe,257,73,14
+26,male,Europe,123,57,10
+32,female,South America,261,78,16
+52,female,Asia,269,63,33
+70,male,Africa,251,70,31
+62,male,Europe,230,62,26
+39,male,Asia,219,75,13
+50,male,Europe,200,66,19
+22,female,Europe,136,65,7
+60,female,South America,246,60,30
+45,male,Asia,184,71,21
+42,female,Africa,251,70,26
+42,female,Africa,232,75,14
+43,female,Europe,184,62,23
+13,male,Asia,186,68,8
+26,female,Asia,144,63,9
+43,male,South America,182,76,15
+49,male,Asia,204,71,23
+41,male,Europe,167,67,14
+35,female,Europe,170,66,16
+19,female,Africa,173,61,11
+69,male,Asia,136,73,21
+49,male,Europe,274,76,18
+48,male,Africa,188,74,15
+47,female,South America,183,64,21
+64,male,Europe,250,64,32
+39,female,South America,109,68,12
+44,female,Europe,168,71,18
+39,female,Africa,62,65,9
+12,female,Asia,150,65,6
+28,male,Asia,252,64,21
+42,female,North America,261,62,27
+59,female,Asia,220,70,25
+33,female,South America,254,69,16
+56,female,South America,71,70,16
+62,female,South America,170,64,19
+34,male,South America,173,72,14
+52,male,Europe,250,69,25
+56,female,Asia,86,64,15
+22,female,South America,231,52,26
+61,female,South America,270,65,27
+63,male,Europe,198,75,23
+39,male,Asia,264,77,18
+65,male,Europe,210,78,22
+53,female,North America,247,59,35
+67,male,South America,205,71,22
+51,female,Europe,249,67,24
+39,female,Europe,220,65,24
+53,female,South America,268,65,25
+64,male,Africa,226,71,23
+51,female,Europe,223,57,29
+21,male,North America,262,71,18
+50,female,Europe,216,53,32
+61,male,Europe,278,67,31
+38,female,South America,195,64,20
+59,male,Asia,155,62,19
+37,male,North America,220,73,16
+70,male,Asia,159,76,20
+24,female,South America,220,63,18
+52,female,Europe,201,62,25
+36,male,South America,174,71,12
+45,male,Europe,260,69,26
+46,male,South America,162,56,24
+38,male,Africa,119,74,14
+45,female,Asia,170,65,16
+38,male,North America,258,74,16
+13,male,Europe,309,66,25
+9,female,Asia,200,73,11
+54,female,South America,258,67,23
+42,female,Europe,304,64,28
+58,male,Europe,219,72,24
+35,female,Europe,180,65,16
+41,male,Asia,174,74,13
+67,female,Asia,182,63,26
+75,female,Africa,203,67,24
+83,female,South America,156,60,27
+20,male,Africa,223,62,21
+50,female,Europe,211,60,26
+76,male,Asia,149,76,21
+16,female,South America,237,67,19
+68,male,Europe,204,72,23
+47,female,South America,153,66,17
+56,female,Asia,140,59,25
+33,male,Europe,184,74,10
+89,female,Asia,161,66,25
+50,male,South America,293,67,29
+65,male,Asia,176,69,19
+56,female,South America,117,67,13
+61,male,Asia,264,65,33
+41,female,South America,207,64,21
+41,male,Asia,218,72,14
+53,male,South America,306,76,21
+38,female,Europe,177,76,12
+40,female,Africa,146,72,15
+50,female,Europe,218,65,24
+47,male,South America,222,70,24
+52,female,Europe,158,54,28
+46,female,Africa,207,62,27
+51,male,Africa,177,75,18
+45,female,Asia,266,71,26
+50,male,North America,192,65,19
+47,female,Europe,226,71,19
+47,male,South America,179,67,22
+27,male,Asia,178,60,13
+27,female,North America,251,53,28
+18,male,Asia,214,67,12
+62,female,Asia,266,58,38
+48,male,Europe,237,71,24
+48,female,Europe,169,79,19
+35,female,Asia,194,75,10
+70,male,South America,220,72,25
+68,male,Asia,166,65,23
+48,female,Asia,296,63,28
+58,female,Europe,160,54,27
+61,male,Europe,183,67,25
+46,male,Europe,163,72,12
+71,female,South America,159,61,28
+20,female,Africa,115,60,6
+39,male,South America,323,72,26
+68,male,Europe,353,71,37
+35,male,South America,272,73,18
+57,female,South America,116,65,13
+60,male,North America,130,62,22
+28,male,South America,262,71,16
+63,female,South America,262,68,28
+50,male,South America,242,60,28
+35,male,South America,280,64,30
+21,male,Africa,187,70,8
+56,male,South America,131,68,14
+52,female,North America,125,62,21
+60,male,South America,272,60,31
+46,female,Europe,79,66,14
+47,female,Africa,222,75,20
+48,male,South America,253,70,23
+35,female,Europe,225,73,15
+42,female,Asia,220,60,28
+29,female,North America,124,71,12
+52,female,Asia,173,59,23
+63,male,South America,177,73,23
+56,male,Asia,239,67,23
+21,male,Asia,227,61,17
+58,female,North America,200,62,29
+57,female,South America,125,62,19
+50,female,North America,318,73,26
+58,male,Africa,148,63,18
+66,female,Asia,159,63,21
+42,female,South America,91,76,12
+37,male,Europe,241,69,21
+52,male,Europe,208,69,21
+29,female,Asia,155,65,14
+41,male,South America,199,73,14
+53,female,Asia,152,65,15
+55,female,South America,191,61,22
+38,female,South America,187,69,19
+29,male,Africa,258,65,26
+33,female,South America,245,69,21
+65,male,South America,143,67,19
+50,male,North America,146,75,11
+44,male,Europe,262,86,13
+19,male,Europe,221,73,9
+49,female,North America,203,57,25
+49,female,Asia,180,79,14
+35,female,Asia,158,78,9
+58,female,South America,133,67,22
+28,female,Europe,147,65,12
+63,male,North America,261,63,28
+37,female,South America,185,65,18
+57,female,Asia,170,62,26
+77,male,North America,246,72,30
+16,male,South America,148,64,12
+28,male,Europe,347,72,24
+36,male,Africa,272,70,26
+49,female,Asia,213,62,25
+40,female,Asia,215,74,13
+53,female,South America,215,61,30
+52,male,Asia,232,57,30
+55,female,Africa,233,60,29
+31,female,North America,216,73,18
+36,female,Europe,177,54,22
+50,male,Asia,173,63,21
+44,female,South America,189,74,17
+41,male,Asia,168,85,14
+56,male,Europe,220,64,27
+65,male,Asia,220,69,23
+40,male,Asia,154,74,10
+53,female,Asia,303,64,33
+41,female,South America,107,65,15
+31,female,Africa,153,65,15
+46,male,South America,183,69,19
+39,male,Africa,296,69,22
+44,female,Asia,95,75,8
+41,female,South America,153,65,15
+34,female,South America,208,63,22
+47,male,Asia,211,61,21
+38,male,South America,203,79,16
+54,male,North America,176,66,18
+74,male,Asia,180,59,34
+37,male,Europe,216,71,18
+58,male,South America,168,76,21
+47,female,Asia,97,57,11
+57,male,Asia,183,76,18
+33,male,Asia,221,74,18
+55,male,Asia,256,80,17
+64,male,South America,220,69,29
+58,male,Asia,194,65,28
+39,female,Asia,129,64,10
+48,male,Asia,167,66,21
+52,female,Europe,255,52,35
+36,female,South America,215,62,18
+59,female,Asia,205,69,20
+54,male,South America,269,72,29
+40,female,Asia,260,76,20
+13,female,Asia,145,63,5
+46,female,Europe,139,74,15
+60,female,Asia,174,68,23
+45,male,Asia,267,62,33
+8,male,Europe,212,68,9
+68,male,Africa,180,66,24
+38,female,South America,110,71,8
+44,female,South America,140,65,16
+36,female,Asia,202,71,14
+81,female,Asia,67,58,21
+29,female,Europe,184,59,16
+45,female,South America,207,63,23
+71,male,North America,223,71,27
+62,male,South America,224,67,28
+40,male,Asia,256,77,21
+36,male,Asia,189,78,16
+49,male,Asia,219,60,27
+45,female,Europe,148,64,13
+23,female,Europe,184,72,11
+30,male,Asia,278,67,23
+39,female,Asia,202,79,13
+42,female,Africa,122,71,14
+37,male,Africa,148,69,11
+22,female,North America,245,64,16
+53,male,Asia,233,68,24
+57,female,Africa,168,65,24
+37,female,South America,211,60,22
+33,male,South America,238,69,22
+20,female,Asia,145,71,11
+55,male,Europe,154,55,26
+26,male,South America,226,61,24
+52,female,Africa,76,55,12
+18,male,Asia,223,74,13
+66,male,Asia,176,61,24
+36,female,Europe,212,65,22
+30,male,North America,210,66,16
+47,male,Asia,169,68,15
+43,male,Europe,225,78,20
+49,female,Asia,190,68,20
+47,male,Africa,240,67,27
+22,male,Asia,200,63,16
+23,female,Asia,188,72,12
+27,male,Africa,219,82,15
+55,male,Asia,182,70,19
+34,male,Asia,132,72,7
+61,female,Asia,173,62,22
+45,female,Africa,95,69,11
+58,male,South America,257,55,34
+21,female,Asia,106,69,2
+50,male,Asia,173,70,16
+43,male,North America,212,81,13
+69,female,South America,223,72,25
+40,female,South America,173,69,16
+51,female,Africa,144,57,22
+57,female,North America,121,53,23
+54,male,Asia,224,62,23
+60,male,Africa,231,72,20
+77,male,Europe,153,77,24
+42,female,Asia,127,67,15
+50,female,Europe,197,63,22
+52,male,Asia,167,73,18
+67,male,South America,233,66,27
+26,female,Asia,132,58,13
+42,male,North America,157,83,12
+64,male,Asia,115,71,19
+33,female,Asia,212,74,18
+44,female,North America,72,70,7
+41,male,South America,195,61,24
+26,male,Europe,258,58,22
+73,male,Europe,242,67,30
+45,male,South America,259,70,20
+43,female,South America,277,67,28
+40,male,Europe,282,72,24
+74,female,Europe,100,66,21
+21,male,Asia,223,75,9
+36,female,Asia,144,66,11
+53,male,South America,163,64,24
+31,male,Asia,220,57,25
+52,female,South America,222,61,25
+38,female,South America,94,62,9
+52,male,South America,292,66,34
+36,male,Europe,297,71,19
+51,female,Europe,243,76,21
+66,female,Europe,142,62,21
+71,male,Asia,241,70,32
+27,male,South America,188,68,10
+12,male,Asia,245,74,12
+47,female,Europe,216,65,24
+42,male,North America,258,67,28
+75,female,Europe,185,68,29
+19,female,Asia,158,66,10
+44,female,Asia,277,74,26
+29,female,Africa,111,67,7
+23,male,Europe,274,83,16
+40,female,Asia,159,73,17
+63,male,Europe,209,57,28
+17,male,Europe,278,68,21
+37,female,Europe,214,70,18
+47,male,Asia,263,70,21
+42,male,Asia,144,72,12
+49,female,Europe,192,56,27
+24,male,Europe,217,66,18
+46,male,Asia,153,72,11
+44,female,South America,246,57,34
+48,male,Asia,194,63,24
+46,male,Europe,179,66,18
+50,male,Europe,253,67,21
+84,female,Europe,176,64,28
+34,female,Europe,154,71,16
+52,female,Asia,234,60,25
+20,female,Asia,220,74,11
+50,male,Asia,294,60,32
+19,female,South America,192,71,10
+28,male,Asia,203,67,14
+36,male,South America,281,78,16
+46,male,Africa,188,64,17
+27,female,Asia,152,57,20
+72,female,Europe,168,49,38
+45,male,Europe,183,73,15
+60,female,South America,200,72,24
+42,female,South America,100,65,9
+22,male,North America,278,61,27
+43,male,Europe,247,73,22
+72,female,Asia,64,53,20
+28,male,Europe,231,69,19
+42,female,Asia,165,66,18
+34,male,South America,288,71,23
+73,female,North America,118,60,24
+50,male,Europe,229,58,28
+56,female,North America,217,76,24
+58,male,Europe,296,75,29
+32,female,Europe,190,68,16
+47,male,South America,194,68,21
+50,female,North America,152,63,16
+21,male,South America,75,69,7
+49,female,Europe,210,65,23
+49,male,Europe,248,69,22
+39,female,North America,168,62,22
+27,female,Africa,145,64,15
+52,female,Europe,218,54,35
+55,female,Africa,191,75,17
+53,female,Asia,208,55,31
+58,female,North America,238,56,35
+64,female,Europe,159,68,20
+53,female,South America,251,65,24
+25,female,Europe,189,57,19
+71,female,Europe,140,59,26
+59,male,Africa,166,72,18
+22,female,Africa,118,60,9
+36,male,Europe,159,71,15
+30,female,South America,207,54,21
+43,male,Europe,202,64,17
+32,female,South America,204,62,19
+48,female,Asia,253,60,33
+35,female,Europe,247,78,16
+66,female,Africa,157,66,25
+36,female,North America,98,71,11
+35,female,Europe,119,68,10
+48,female,Asia,182,68,19
+43,female,Europe,275,71,24
+59,male,South America,190,69,24
+55,female,Europe,316,67,35
+45,male,Africa,170,71,18
+25,female,South America,202,57,24
+61,female,Europe,198,63,29
+53,male,Europe,240,70,27
+60,male,North America,177,63,24
+33,male,Europe,215,71,14
+43,male,South America,128,66,16
+42,female,South America,143,63,13
+50,female,Asia,170,68,14
+45,male,Africa,275,79,22
+58,female,Africa,189,57,31
+60,female,Europe,236,58,30
+55,male,Africa,74,64,14
+42,female,Europe,207,65,21
+50,female,Asia,155,71,12
+61,male,Asia,138,63,16
+33,male,Europe,212,67,20
+51,female,Europe,130,65,18
+40,male,Europe,265,72,22
+15,male,Asia,258,75,16
+32,female,Africa,260,53,34
+47,male,Europe,204,73,14
+35,female,Asia,162,63,16
+66,male,Africa,188,67,27
+7,male,South America,248,66,18
+42,male,Europe,290,75,21
+23,female,Europe,228,67,20
+37,male,Asia,148,65,17
+38,male,Asia,256,69,20
+23,male,Europe,288,73,19
+8,male,Asia,210,65,14
+36,female,Asia,223,67,18
+8,male,Africa,189,70,9
+34,male,South America,150,73,11
+14,male,Europe,282,77,13
+37,male,Asia,234,75,16
+61,male,South America,160,71,20
+68,male,South America,149,65,25
+45,female,Asia,160,65,17
+49,male,Asia,212,77,21
+19,female,Asia,188,66,9
+58,male,Europe,239,72,27
+50,female,Africa,248,68,24
+56,female,South America,125,63,19
+53,male,Europe,245,61,31
+55,female,North America,249,61,29
+66,female,Africa,164,60,22
+19,female,South America,180,67,14
+60,male,Europe,173,66,24
+55,female,Asia,277,63,30
+61,male,Asia,196,72,26
+36,male,Asia,247,74,17
+48,female,Asia,162,69,19
+55,male,Europe,277,63,35
+29,female,Europe,159,67,11
+15,male,Asia,276,65,19
+55,male,Europe,228,64,26
+40,female,Africa,172,77,14
+0,female,Asia,267,71,15
+38,female,South America,173,62,17
+38,female,Africa,160,78,13
+79,male,Europe,285,71,29
+41,male,Asia,137,65,12
+41,male,South America,274,69,20
+66,female,Asia,125,53,27
+47,female,Europe,135,73,14
+42,female,Asia,125,56,17
+75,male,Asia,177,67,25
+34,female,Africa,190,65,18
+31,female,Asia,223,60,23
+56,male,Europe,169,73,19
+43,male,Africa,219,65,23
+63,male,Asia,155,67,23
+22,male,Asia,207,63,21
+56,male,Asia,179,64,22
+18,female,Africa,191,72,11
+49,male,Asia,132,68,19
+24,female,Africa,293,65,25
+53,male,Asia,159,68,17
+58,male,Europe,212,67,23
+79,male,Africa,199,74,24
+39,male,Europe,212,73,15
+54,male,Europe,239,73,26
+37,female,Asia,253,71,24
+32,male,South America,228,68,22
+44,female,South America,222,74,20
+64,female,South America,119,69,18
+27,female,South America,243,63,24
+34,male,Europe,141,78,8
+72,male,Africa,170,64,26
+57,female,South America,231,57,30
+50,female,Africa,204,65,25
+42,female,North America,87,66,12
+32,male,Asia,201,69,16
+62,male,South America,151,66,21
+51,male,South America,281,70,26
+25,female,Asia,213,62,23
+37,female,Asia,186,66,14
+82,female,Asia,189,63,30
+43,male,Africa,242,65,20
+42,male,Asia,159,73,10
+36,female,South America,176,64,15
+60,female,Asia,167,60,27
+52,male,Asia,263,64,27
+13,female,Asia,222,61,20
+57,female,Asia,89,60,13
+27,female,Africa,106,70,7
+55,male,South America,245,69,25
+50,female,Europe,132,59,18
+55,female,Asia,192,60,28
+47,female,Africa,82,68,14
+30,male,South America,213,68,16
+54,female,North America,90,73,12
+44,male,Europe,188,73,16
+52,male,Europe,249,65,28
+64,male,South America,184,64,27
+86,male,Asia,214,75,28
+58,male,Asia,179,66,21
+40,male,South America,183,72,17
+50,female,Europe,191,65,21
+41,male,Europe,277,69,27
+29,male,Asia,202,63,19
+40,female,South America,98,67,7
+26,male,Africa,129,59,16
+52,female,Europe,259,58,29
+42,male,Europe,294,73,26
+63,male,Europe,258,78,22
+34,female,Asia,188,62,22
+40,male,Europe,246,83,19
+24,female,Asia,249,78,11
+56,female,Asia,161,64,18
+38,female,Europe,160,68,15
+40,female,Africa,76,68,13
+59,male,Europe,182,62,20
+71,male,Europe,211,59,33
+40,male,Asia,232,66,22
+32,female,Africa,178,58,18
+55,female,North America,222,73,24
+60,male,Africa,255,77,24
+55,male,Asia,173,69,18
+62,male,Africa,218,64,26
+69,male,South America,169,68,19
+28,male,Asia,249,74,14
+66,male,Africa,226,65,28
+63,male,Asia,108,64,20
+41,male,Europe,209,70,19
+53,male,South America,158,69,21
+48,male,Asia,180,67,19
+52,female,Asia,223,59,29
+51,female,Africa,174,71,14
+53,female,Europe,295,58,38
+70,male,Europe,161,63,25
+55,female,North America,121,55,19
+35,female,Asia,164,73,11
+69,male,Europe,202,72,21
+50,female,Asia,95,67,17
+41,female,Africa,177,81,13
+33,male,Africa,186,70,11
+45,female,South America,190,69,14
+65,male,Asia,220,71,23
+62,female,Africa,158,63,18
+64,male,Europe,265,70,28
+17,female,South America,174,64,11
+42,female,Asia,93,67,9
+58,male,Asia,226,64,26
+39,female,North America,223,75,13
+44,female,Europe,273,69,21
+40,female,Europe,149,64,16
+62,female,Asia,213,72,20
+43,female,North America,168,76,14
+41,female,Europe,213,66,19
+64,female,Asia,152,68,24
+42,male,South America,171,76,10
+43,female,Europe,158,71,16
+39,female,Asia,160,68,16
+38,male,Asia,132,81,10
+33,female,South America,193,75,15
+53,male,Africa,172,68,16
+45,male,Europe,254,68,27
+53,male,Europe,177,52,29
+26,female,Europe,175,67,14
+50,male,South America,261,59,32
+44,male,Africa,204,77,20
+30,female,Europe,245,63,22
+38,male,South America,308,73,19
+23,male,South America,167,74,6
+63,female,Asia,200,68,23
+28,female,South America,163,56,16
+23,male,Asia,229,70,16
+25,female,Europe,187,65,12
+47,male,South America,271,66,30
+35,female,Asia,196,58,24
+41,female,Asia,114,77,8
+50,male,Asia,207,73,19
+47,male,North America,183,65,21
+43,female,Europe,172,75,14
+12,male,Asia,194,64,16
+62,male,South America,135,79,19
+27,female,Asia,283,62,25
+19,female,Europe,167,67,8
+32,male,Europe,188,67,13
+39,female,Asia,172,77,10
+55,male,Europe,236,72,26
+26,male,Europe,277,68,25
+39,female,Europe,188,62,22
+52,female,Asia,67,59,14
+46,male,Europe,184,73,16
+34,female,South America,135,66,16
+53,male,South America,166,77,17
+39,male,Africa,221,69,20
+27,male,Africa,192,67,19
+49,female,Asia,96,58,19
+45,male,South America,256,73,25
+67,female,Asia,182,65,23
+31,female,Europe,162,70,10
+34,female,North America,192,69,19
+45,female,South America,239,70,23
+44,male,Africa,211,80,15
+19,male,Asia,184,69,12
+78,male,South America,165,79,24
+39,female,Asia,196,67,22
+42,male,Europe,254,77,18
+41,female,Europe,236,64,27
+49,male,Europe,154,76,11
+52,female,South America,94,73,8
+43,male,Africa,225,71,20
+25,male,Asia,149,68,12
+44,male,Europe,252,77,19
+22,male,Africa,191,59,21
+56,male,Asia,150,74,13
+29,female,South America,148,56,18
+65,male,Asia,174,65,27
+61,female,Asia,207,57,27
+51,male,Asia,301,68,26
+31,female,Africa,123,63,15
+59,female,North America,203,68,20
+40,male,Europe,170,78,13
+31,male,Africa,224,66,16
+55,female,Europe,183,66,18
+38,female,North America,174,66,13
+63,female,Asia,226,72,26
+52,female,Africa,134,69,12
+53,male,Africa,204,59,29
+46,female,Europe,216,59,25
+39,male,North America,278,77,18
+49,male,Africa,250,67,25
+50,male,Asia,206,64,24
+18,male,Europe,224,76,14
+66,male,Asia,232,70,28
+47,female,Asia,155,57,18
+34,female,South America,160,65,11
+33,female,South America,216,69,16
+43,male,Europe,174,62,19
+57,female,Europe,197,62,27
+68,male,Europe,190,67,22
+66,male,Asia,275,62,34
+54,female,Asia,136,62,16
+56,male,Asia,207,72,17
+19,female,Asia,190,70,15
+50,female,Asia,45,67,12
+43,male,Asia,209,78,15
+31,male,Asia,209,78,13
+35,female,South America,61,59,10
+41,female,Europe,190,69,20
+31,female,Europe,117,71,5
+66,female,Asia,156,66,25
+36,male,Europe,256,66,21
+73,female,Asia,198,62,27
+47,female,South America,184,65,17
+54,female,Europe,189,65,20
+45,female,South America,197,62,24
+49,female,North America,211,64,19
+49,female,Asia,238,63,24
+43,male,Europe,302,73,24
+42,female,Africa,244,67,24
+32,male,South America,164,75,15
+49,male,Africa,195,68,22
+39,female,Asia,202,64,19
+38,female,South America,227,71,20
+43,female,Africa,249,67,23
+45,male,Asia,128,65,12
+51,male,Africa,190,62,19
+43,female,South America,197,72,21
+37,male,Asia,174,68,16
+35,male,Asia,279,74,19
+33,female,South America,217,74,12
+49,male,Africa,334,75,25
+59,female,Africa,184,59,30
+49,male,Asia,180,67,18
+86,female,Asia,169,67,32
+79,female,South America,227,66,29
+46,female,North America,170,66,16
+54,female,Europe,85,59,19
+53,female,Asia,185,68,21
+56,female,Europe,184,64,24
+73,male,Europe,165,68,22
+50,male,Europe,261,59,33
+59,male,Europe,193,59,28
+0,male,South America,320,65,23
+45,male,Asia,229,70,22
+46,male,Asia,194,62,24
+54,female,North America,188,58,25
+55,male,Europe,184,66,24
+40,male,Asia,208,81,12
+38,male,Europe,164,80,13
+46,female,Africa,180,78,17
+56,male,Asia,154,66,18
+60,female,Asia,134,64,18
+45,female,Asia,249,66,24
+23,female,Europe,214,72,13
+48,female,Asia,143,54,26
+29,male,Asia,190,57,20
+22,female,Africa,245,62,22
+34,female,Asia,149,55,21
+65,male,Africa,268,74,27
+51,male,Asia,255,69,28
+58,female,North America,201,69,20
+50,male,South America,214,70,24
+53,female,Europe,228,57,31
+63,male,Europe,217,58,32
+59,male,South America,246,77,22
+41,male,Europe,264,80,14
+41,female,South America,306,65,26
+52,female,Africa,151,68,19
+68,female,Europe,190,64,30
+45,female,North America,129,70,10
+54,female,Europe,81,58,13
+51,female,Europe,166,67,21
+21,female,Europe,159,46,24
+37,male,North America,245,71,16
+54,male,Africa,213,75,17
+26,female,Europe,163,65,17
+29,female,Europe,200,60,16
+73,male,Africa,105,68,19
+53,female,Asia,162,66,18
+39,female,Asia,209,68,18
+51,male,Europe,169,76,19
+68,male,Asia,313,69,30
+44,male,Europe,264,71,21
+59,male,Europe,310,65,37
+52,female,Asia,135,66,20
+39,female,Europe,259,66,28
+46,male,Africa,179,71,20
+31,female,Asia,193,71,14
+36,male,Asia,185,79,11
+32,male,Europe,263,65,27
+48,male,Asia,221,71,18
+63,female,Africa,149,58,28
+38,male,South America,154,75,14
+70,male,Africa,195,71,22
+55,male,South America,173,66,23
+45,female,Asia,238,65,24
+47,female,Europe,272,69,21
+50,male,North America,209,65,26
+36,female,Africa,184,69,14
+31,male,Europe,175,78,15
+49,male,Europe,280,69,25
+61,male,Asia,290,63,36
+46,male,Africa,234,82,18
+49,female,South America,263,71,20
+42,female,South America,258,65,21
+76,female,Europe,263,58,39
+36,male,Asia,175,68,11
+25,female,Europe,190,62,17
+41,male,Asia,206,76,19
+54,female,North America,216,67,23
+47,male,Asia,168,74,17
+19,male,South America,221,71,17
+50,male,Asia,208,74,19
+58,female,North America,89,70,17
+38,male,Asia,211,70,16
+35,female,North America,194,66,16
+22,female,South America,116,60,10
+34,male,Europe,268,59,30
+50,male,South America,229,63,25
+45,male,Asia,199,64,17
+41,female,Asia,127,70,15
+59,male,South America,192,71,22
+34,male,South America,230,71,17
+52,female,Asia,245,64,25
+66,female,Asia,181,59,30
+42,male,Asia,171,60,21
+22,male,Asia,332,65,24
+30,male,Asia,318,64,24
+66,female,Europe,244,82,20
+27,male,South America,250,66,17
+50,female,North America,100,70,9
+79,female,Europe,205,67,26
+49,male,Europe,198,66,18
+42,female,Asia,143,68,15
+58,female,South America,127,52,21
+80,female,Europe,220,59,39
+52,female,Asia,168,52,25
+46,male,Asia,235,63,28
+28,female,South America,212,66,21
+26,female,Europe,176,73,10
+31,male,Europe,305,69,26
+55,female,Europe,292,59,40
+28,female,Asia,139,57,11
+11,female,Europe,212,64,14
+38,female,Africa,120,67,10
+58,female,Asia,254,63,30
+21,male,South America,161,68,14
+12,female,Europe,199,63,16
+47,female,Europe,189,67,22
+55,male,Asia,168,59,20
+43,male,Asia,179,70,13
+38,female,Europe,164,67,16
+55,male,South America,273,72,28
+25,female,South America,166,64,15
+24,female,Europe,257,61,25
+47,female,Africa,186,73,15
+48,male,North America,348,62,40
+61,female,Europe,199,65,25
+53,male,North America,294,77,25
+47,male,Africa,167,66,16
+28,female,Europe,137,74,12
+38,female,Asia,121,65,16
+60,female,Africa,220,69,22
+30,female,Asia,181,63,17
+36,female,Asia,230,76,19
+47,male,South America,184,68,17
+48,female,Asia,239,67,20
+45,female,North America,167,62,16
+34,male,Asia,243,60,25
+40,male,Africa,293,77,18
+42,male,South America,294,74,20
+61,female,Africa,159,55,23
+49,male,Asia,269,75,24
+62,female,South America,84,64,16
+32,female,Africa,139,58,13
+19,female,Africa,212,69,15
+33,female,Africa,131,57,14
+40,female,South America,213,67,24
+20,female,Africa,227,67,15
+65,female,Europe,212,73,27
+45,female,Asia,202,63,23
+52,female,Asia,182,66,17
+77,female,South America,158,66,28
+26,female,South America,235,65,21
+24,male,North America,317,62,30
+58,female,Asia,80,66,13
+45,male,Europe,193,68,21
+49,male,North America,356,61,37
+41,female,South America,320,70,23
+49,female,South America,177,62,18
+42,male,Europe,219,67,20
+64,female,Europe,86,65,15
+10,male,Europe,171,63,14
+52,female,Africa,143,75,11
+50,male,North America,212,75,18
+53,male,Europe,191,60,25
+21,male,Asia,296,73,15
+27,female,Africa,125,65,7
+19,male,Africa,163,76,6
+49,male,Europe,218,68,18
+52,female,Asia,273,69,23
+30,male,North America,171,69,17
+39,male,South America,182,70,19
+54,male,North America,154,65,18
+51,female,Asia,89,65,12
+16,female,South America,145,64,7
+37,male,North America,194,73,12
+46,male,Asia,204,84,14
+55,female,South America,154,64,21
+49,female,Asia,231,62,22
+18,female,North America,176,63,14
+40,male,Africa,168,71,16
+37,male,Africa,218,72,16
+35,female,Asia,234,66,17
+47,male,South America,137,70,18
+42,female,Asia,193,76,12
+39,female,Asia,124,78,9
+37,female,Africa,179,64,18
+34,male,Africa,234,60,22
+44,female,South America,133,71,15
+56,female,Europe,219,72,26
+80,female,Europe,200,69,30
+29,female,Asia,180,72,8
+52,female,Asia,156,70,20
+49,female,South America,193,59,25
+21,female,Asia,173,67,14
+85,female,Africa,138,61,29
+56,female,Europe,263,76,22
+29,female,North America,193,53,25
+63,female,Europe,235,68,29
+49,female,South America,174,68,15
+32,male,South America,202,65,17
+72,male,South America,194,69,25
+59,male,Asia,129,64,18
+59,female,North America,94,63,15
+22,female,Europe,206,68,18
+38,male,Asia,276,82,17
+60,male,Europe,231,66,27
+60,female,Africa,194,63,24
+50,male,Europe,229,72,24
+33,female,Asia,243,70,22
+65,male,Asia,273,73,26
+36,female,Europe,166,60,21
+26,female,Africa,173,59,13
+54,male,Africa,159,69,17
+48,female,Europe,275,69,24
+51,female,Asia,180,66,21
+53,male,Africa,138,72,20
+55,female,South America,130,64,14
+68,female,Europe,200,68,21
+21,female,South America,127,50,12
+41,male,Europe,188,83,17
+23,male,Africa,218,77,15
+29,female,North America,187,67,16
+41,male,South America,270,75,23
+38,male,South America,244,73,15
+38,female,Europe,211,84,15
+49,male,North America,137,73,18
+43,male,Europe,92,66,11
+49,female,Asia,230,71,24
+22,female,South America,251,63,20
+61,female,South America,122,59,17
+43,female,Europe,179,65,18
+79,male,Asia,234,64,31
+41,female,South America,168,58,20
+62,female,North America,155,68,23
+36,female,Asia,203,66,17
+57,female,Europe,238,65,26
+40,male,South America,253,70,24
+65,female,Europe,202,69,26
+37,male,Europe,279,77,18
+31,male,Asia,251,80,11
+38,male,Asia,231,69,18
+47,male,South America,228,82,21
+32,female,Asia,174,66,13
+36,male,South America,228,65,24
+33,male,South America,197,66,16
+63,male,Africa,188,73,17
+0,female,South America,254,64,11
+40,male,Asia,212,69,19
+69,female,South America,249,68,25
+47,male,Europe,99,79,7
+49,male,South America,261,66,26
+31,female,South America,192,61,15
+65,female,South America,128,65,18
+23,female,Europe,157,72,8
+52,male,South America,173,73,15
+45,female,Asia,200,68,15
+68,female,South America,265,64,29
+47,male,Asia,203,65,24
+6,female,Africa,254,68,12
+20,male,South America,266,64,19
+25,male,South America,218,58,24
+43,female,Asia,155,51,22
+47,female,Asia,170,63,17
+47,male,Africa,186,73,18
+45,male,Africa,242,74,20
+52,female,South America,235,63,27
+82,female,Asia,228,68,34
+30,male,Africa,247,72,14
+50,female,Europe,271,71,28
+38,female,Europe,249,77,13
+54,male,Europe,222,65,27
+42,male,North America,206,70,20
+44,female,Europe,120,71,13
+42,female,Europe,204,68,23
+50,female,Africa,237,67,25
+41,male,Asia,253,84,16
+55,male,Asia,250,65,31
+33,female,North America,153,62,17
+48,female,Europe,191,67,22
+45,male,Europe,219,62,28
+39,female,South America,182,76,14
+39,male,Asia,287,71,19
+50,female,Asia,259,60,33
+44,male,South America,160,81,10
+52,female,Africa,184,58,22
+39,female,Asia,142,76,13
+50,female,Asia,278,62,28
+69,female,Africa,264,74,24
+41,male,South America,188,64,19
+51,male,Africa,158,59,19
+39,male,South America,193,71,19
+61,male,Asia,150,74,15
+70,female,Europe,251,64,32
+47,female,South America,175,72,20
+49,male,North America,157,77,12
+32,male,Asia,288,66,20
+26,female,Asia,133,64,9
+38,female,South America,262,66,26
+34,female,Europe,176,67,13
+10,female,South America,250,57,24
+57,male,South America,164,49,27
+63,female,Asia,214,64,28
+46,male,South America,156,63,19
+40,male,Europe,254,77,14
+29,female,Africa,163,51,20
+43,female,Africa,273,68,22
+34,female,Europe,247,76,16
+54,female,South America,310,75,27
+38,male,Africa,64,75,7
+62,female,Europe,213,67,22
